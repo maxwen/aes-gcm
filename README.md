@@ -1,3 +1,8 @@
+Forked from<br>
+https://github.com/RustCrypto/AEADs/tree/master/aes-gcm
+
+Custom `decrypt_in_place_detached` to not check for expected_tag
+
 # RustCrypto: AES-GCM
 
 [![crate][crate-image]][crate-link]
